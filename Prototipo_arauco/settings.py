@@ -104,6 +104,7 @@ DATABASES = {
 }
 #Probando con la culi!!!
 #Nuevo Push
+#HOLA PELUCA QLO
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
