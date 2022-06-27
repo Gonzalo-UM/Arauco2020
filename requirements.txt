@@ -24,7 +24,7 @@ pylint-plugin-utils==0.5
 PyPDF2==1.26.0
 python-decouple==3.1
 pytz==2018.5
-reportlab==3.5.26
+reportlab==3.5.55
 selenium==3.14.0
 six==1.12.0
 sqlparse==0.3.0
